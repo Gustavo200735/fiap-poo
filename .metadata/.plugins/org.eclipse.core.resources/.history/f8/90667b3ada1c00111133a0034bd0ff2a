@@ -1,0 +1,10 @@
+package br.com.fiapride.model;
+
+public class Fones {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
